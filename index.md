@@ -1,5 +1,5 @@
 layout: page
 title: "King Zeddicus - Forex Trading Knowledgebase"
-permalink: "/"
+permalink: /
 
-This is the index page
+This is the latest modified index page.
